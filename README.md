@@ -8,7 +8,7 @@ I'm currently a distinction-level student at Eduvos, pursuing a Bachelor of Scie
 
 ## My Repositories
 
-### [Blockchain in Python using Flask](https://github.com/CollectingMangos/MangoChain)
+### [Blockchain in Python using Flask AKA MangoChain](https://github.com/CollectingMangos/MangoChain)
 
 This repository features a blockchain implementation built using Python and Flask. Dive in to explore the world of decentralized technology and see how blockchain works at a fundamental level.
 
@@ -18,7 +18,7 @@ This repository features a blockchain implementation built using Python and Flas
   - RESTful API for interacting with the blockchain
   - Simple and clear code structure for educational purposes
 
-### [Django API](https://github.com/CollectingMangos/Dj-Mango-API)
+### [Django API AKA Dj-Mango-API](https://github.com/CollectingMangos/Dj-Mango-API)
 
 Here, you will find a API built with Django. This project showcases my ability to develop robust back-end solutions, leveraging the power of Django to create scalable and efficient APIs.
 
