@@ -1,41 +1,42 @@
-Welcome to My GitHub Galaxy! 🌌
+# Welcome to My GitHub Galaxy! 🌌
 
 Greetings, traveller of the tech frontier! I'm Ruben Da Silva, Senior QA Analyst by trade, full-stack Padawan by passion. With over 4 years of hands-on experience in manual and automated testing—and an ever-growing skillset in Software Engineering—this GitHub is my rebel base of open-source experiments and learning.
 
-🧪 About Me
+## 🧪 About Me
+
 Currently working at ProPay SA, I lead QA efforts across manual, exploratory, and Cypress automation testing. I collaborate with BAs, Devs, and PMs to ensure bug-free deployments, all while pushing for innovation and scalability. My testing journey spans:
 
-🧩 Unit, Integration, System, UAT, E2E
+- 🧩 Unit, Integration, System, UAT, E2E  
+- 🚀 Automation with Cypress  
+- ☁️ Agile workflows using Jira, TestMo, GitHub  
+- 🎓 Distinction graduate in IT [Software Engineering]
 
-🚀 Automation with Cypress
+## 🚀 Repositories in the Galaxy
 
-☁️ Agile workflows using Jira, TestMo, GitHub
-
-🎓 Distinction graduate in IT [Software Engineering]
-
-🚀 Repositories in the Galaxy
-🪙 MangoChain – Blockchain in Python & Flask
+### 🪙 MangoChain – Blockchain in Python & Flask  
 A simple, educational blockchain prototype inspired by the rebellion of decentralization.
 
-Python, Flask
+- **Technologies:** Python, Flask  
+- **Features:**  
+  - Custom RESTful API  
+  - Block creation  
+  - Proof-of-work  
+  - Chain validation
 
-Custom RESTful API
-
-Block creation, proof-of-work, chain validation
-
-🌐 Dj-Mango-API – Django REST API
+### 🌐 Dj-Mango-API – Django REST API  
 A back-end system using Django Rest Framework, built to scale and protect like a true Jedi shield.
 
-Django, DRF
+- **Technologies:** Django, DRF  
+- **Features:**  
+  - Secure auth systems  
+  - Clean documentation  
+  - Production-ready design
 
-Secure auth systems
+## 🤝 Let’s Collaborate
 
-Clean, documented, and production-ready
-
-🤝 Let’s Collaborate
 I’m always open to new missions—whether it’s QA automation, open-source collabs, or backend builds. If you're on a similar journey or want to exchange some force powers:
 
-🔗 LinkedIn – ruben-d-399b07181
+- 🔗 [LinkedIn – ruben-d-399b07181](https://www.linkedin.com/in/ruben-d-399b07181/)
 
-Until next release,
-May the code be with you. 🖖💻🌌
+Until next release,  
+**May the code be with you.** 🖖💻🌌
