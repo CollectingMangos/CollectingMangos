@@ -1,37 +1,41 @@
-# Welcome to My GitHub Galaxy! 🌌
+Welcome to My GitHub Galaxy! 🌌
 
-Greetings, fellow coders and explorers of the digital frontier! I'm Ruben Da Silva, a dedicated Software Tester with a passion for coding and creating innovative solutions. Here, you'll find a collection of my coding projects, each a testament to my journey through the vast universe of software development.
+Greetings, traveller of the tech frontier! I'm Ruben Da Silva, Senior QA Analyst by trade, full-stack Padawan by passion. With over 4 years of hands-on experience in manual and automated testing—and an ever-growing skillset in Software Engineering—this GitHub is my rebel base of open-source experiments and learning.
 
-## About Me
+🧪 About Me
+Currently working at ProPay SA, I lead QA efforts across manual, exploratory, and Cypress automation testing. I collaborate with BAs, Devs, and PMs to ensure bug-free deployments, all while pushing for innovation and scalability. My testing journey spans:
 
-I'm currently a distinction-level student at Eduvos, pursuing a Bachelor of Science in Information Technology [Software Engineering]. With 2.5 years of experience in Unit, Integration, System, Performance, and Security testing, I blend my testing expertise with my love for coding to build robust and scalable applications.
+🧩 Unit, Integration, System, UAT, E2E
 
-## My Repositories
+🚀 Automation with Cypress
 
-### [Blockchain in Python using Flask AKA MangoChain](https://github.com/CollectingMangos/MangoChain)
+☁️ Agile workflows using Jira, TestMo, GitHub
 
-This repository features a blockchain implementation built using Python and Flask. Dive in to explore the world of decentralized technology and see how blockchain works at a fundamental level.
+🎓 Distinction graduate in IT [Software Engineering]
 
-- **Technologies Used:** Python, Flask
-- **Key Features:**
-  - Implementation of blockchain concepts
-  - RESTful API for interacting with the blockchain
-  - Simple and clear code structure for educational purposes
+🚀 Repositories in the Galaxy
+🪙 MangoChain – Blockchain in Python & Flask
+A simple, educational blockchain prototype inspired by the rebellion of decentralization.
 
-### [Django API AKA Dj-Mango-API](https://github.com/CollectingMangos/Dj-Mango-API)
+Python, Flask
 
-Here, you will find a API built with Django. This project showcases my ability to develop robust back-end solutions, leveraging the power of Django to create scalable and efficient APIs.
+Custom RESTful API
 
-- **Technologies Used:** Python, Django, Django REST Framework
-- **Key Features:**
-  - RESTful API endpoints
-  - Authentication and authorization mechanisms
-  - Comprehensive documentation and clean code practices
+Block creation, proof-of-work, chain validation
 
-## Let's Connect
+🌐 Dj-Mango-API – Django REST API
+A back-end system using Django Rest Framework, built to scale and protect like a true Jedi shield.
 
-Feel free to explore my repositories and reach out if you have any questions or suggestions. I'm always open to collaboration and eager to learn from fellow developers.
+Django, DRF
 
-- **LinkedIn:** https://www.linkedin.com/in/ruben-d-399b07181/
+Secure auth systems
 
-May the code be with you! 🚀
+Clean, documented, and production-ready
+
+🤝 Let’s Collaborate
+I’m always open to new missions—whether it’s QA automation, open-source collabs, or backend builds. If you're on a similar journey or want to exchange some force powers:
+
+🔗 LinkedIn – ruben-d-399b07181
+
+Until next release,
+May the code be with you. 🖖💻🌌
